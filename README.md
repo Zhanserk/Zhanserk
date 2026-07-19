@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zhanserik 👋
 
-<!--
-**Zhanserk/Zhanserk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer (Java/Spring Boot + React) and Power BI Data Analyst.
+4rd-year Digital Engineering student at Narxoz University.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Backend: Java, Spring Boot, REST API
+- Frontend: React.js, JavaScript (ES6+), HTML/CSS
+- Data: Power BI (Power Query, DAX)
+- Tools: Git, GitHub, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Alasha | Katon-Karagai](https://www.alashakaton.kz/) — landing page built for a local business
+- [Final Project](https://github.com/Zhanserk/Final_project) — full-stack web app (Spring Boot + React)
+
+## 📫 Contact
+- Email: zhanserik.zhumabaiuly@narxoz.kz
+- Telegram: (@ammiroov)
