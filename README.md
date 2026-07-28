@@ -25,7 +25,7 @@ Fullstack Developer (Java / Spring Boot + React) & Power BI Data Analyst.
 ### 📊 Interactive Power BI Dashboards (Live Demos)
 
 * 📈 **[Interactive Portfolio & Career Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJhOTIxNDAtOWY2ZS00ZWNjLThkZWYtNjQxNjhjYmQ5NGRkIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9)** — Bookmarks, custom UX navigation & profile metrics demo.
-* 💰 **[Financial Performance & Data Visualization Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYyNGM2MWQtYWNhYS00NzY2LWExNmYtYTdlZDU4YmI1NzUzIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9)** — Advanced financial data modeling, P&L analysis, and interactive viz.
+* 💰 **[Financial Performance & Data Visualization Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYyNGM2MWQtYWNhYS00NzY2LWExNmYtYTdlZDU4YmI1NzUzIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9&pageName=29e70dcc097997b02e07)** — Advanced financial data modeling, P&L analysis, and interactive viz.
 * 📊 **[Executive Business Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Q2NTdiMzQtYmI3OC00N2Y2LTk5MDQtYWM3YzQyMmEzY2UyIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9)** — Power Query ETL, cross-filtering, time-intelligence & KPI tracking.
 * 📋 **[Survey Research & Social Data Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzUwZDZkYmItZmM4OS00YzU5LTllNDUtNTFkZWJmNWU0OTMzIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9)** — End-to-end analytical study based on 500+ survey respondents with custom DAX calculations.
 
