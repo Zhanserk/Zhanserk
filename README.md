@@ -1,24 +1,37 @@
 # Hi, I'm Zhanserik 👋
 
-Fullstack Developer (Java/Spring Boot + React) and Power BI Data Analyst.
-4rd-year Digital Engineering student at Narxoz University.
+Fullstack Developer (Java / Spring Boot + React) & Power BI Data Analyst.  
+4th-year Digital Engineering student at Narxoz University.
 
-## 🛠 Tech Stack
-- Backend: Java, Spring Boot, REST API
-- Frontend: React.js, JavaScript (ES6+), HTML/CSS
-- Data: Power BI (Power Query, DAX)
-- Tools: Git, GitHub, IntelliJ IDEA
+---
 
-## 🚀 Projects
-- [Alasha | Katon-Karagai](https://www.alashakaton.kz/) — landing page built for a local business
-- [Final Project](https://github.com/Zhanserk/Final_project) — full-stack web app (Spring Boot + React)
+### 🛠 Tech Stack
 
-## 📊 Power BI Projects
-- [📈 Interactive Resume Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJhOTIxNDAtOWY2ZS00ZWNjLThkZWYtNjQxNjhjYmQ5NGRkIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9) — bookmarks & custom navigation demo
-- [📊 Business Analytics Dashboard #1](https://app.powerbi.com/view?r=eyJrIjoiNzUwZDZkYmItZmM4OS00YzU5LTllNDUtNTFkZWJmNWU0OTMzIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9) — Power Query ETL, cross-filtering
-- [📊 Business Analytics Dashboard #2](https://app.powerbi.com/view?r=eyJrIjoiY2Q2NTdiMzQtYmI3OC00N2Y2LTk5MDQtYWM3YzQyMmEzY2UyIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9) — advanced DAX measures
-- [📊 Business Analytics Dashboard #3](https://app.powerbi.com/view?r=eyJrIjoiYWYyNGM2MWQtYWNhYS00NzY2LWExNmYtYTdlZDU4YmI1NzUzIiwidCI6ImU2MjkwNDNmLTJhZDUtNGU2Ny05NTY5LWY3MGNiZmQzYzUzNyIsImMiOjl9) — data model optimization
+* **Backend:** Java (Core, OOP, Collections, Streams), Spring Boot, Spring Data JPA, REST API
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+* **Data & Analytics:** Power BI (Power Query, DAX, Data Modeling), SQL (PostgreSQL, MySQL)
+* **Tools & DevOps:** Git, GitHub, Postman, IntelliJ IDEA, VS Code, Docker (basic)
 
-## 📫 Contact
-- Email: zhanserik.zhumabaiuly@narxoz.kz
-- Telegram: https://t.me/ammiroov
+---
+
+### 🚀 Key Projects
+
+* 🌐 **[Alasha | Katon-Karagai](https://www.alashakaton.kz/)** — Production landing page for a local business.
+* 💻 **[Final Project](https://github.com/Zhanserk/Final_project)** — Full-stack web application (Spring Boot + React + PostgreSQL).
+* ☕ **[Java Core & OOP Practices](https://github.com/Zhanserk/JavaOOPwithallmyRepeatOOP)** — Structured repository covering OOP design, Generics, Custom Exceptions, and File I/O.
+
+---
+
+### 📊 Power BI Projects
+
+* 📈 **Interactive Resume Dashboard** — Bookmarks & custom navigation demo.
+* 📊 **Business Analytics Dashboards** — Power Query ETL, DAX measures & data model optimization.
+
+---
+
+### 📫 Connect with Me
+
+* 📧 **Email:** [zhanserik.zhumabaiuly@narxoz.kz](mailto:zhanserik.zhumabaiuly@narxoz.kz)
+* 💬 **Telegram:** [@ammiroov](https://t.me/ammiroov)
+* 🟢 **WhatsApp:** [+7 (702) 673-27-30](https://wa.me/77026732730)
+* 💼 **LinkedIn:** [zhanseric-zhumabayuly](https://linkedin.com/in/zhanseric-zhumabayuly)
