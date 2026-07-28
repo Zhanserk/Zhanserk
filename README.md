@@ -21,4 +21,4 @@ Fullstack Developer (Java/Spring Boot + React) and Power BI Data Analyst.
 
 ## 📫 Contact
 - Email: zhanserik.zhumabaiuly@narxoz.kz
-- Telegram: (@ammiroov)
+- Telegram: https://t.me/ammiroov
