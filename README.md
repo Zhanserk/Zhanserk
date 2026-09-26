@@ -28,7 +28,7 @@
 
 An AI interior-design service: upload a photo of your room, pick a style — get a redesigned interior in about 30 seconds and buy the furniture from it in one click.
 
-| | |
+| Layer | Technologies |
 |---|---|
 | **Backend** | Java 17, Spring Boot 3.5, Spring Security (JWT), Spring Data JPA, Flyway, PostgreSQL 16 |
 | **Frontend** | React 19, TypeScript, Vite, Tailwind CSS |
